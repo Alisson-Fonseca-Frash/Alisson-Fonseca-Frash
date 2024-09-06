@@ -16,8 +16,10 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Alisson-Fonseca-Frash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
   #
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Alisson-Fonseca-Frash)](https://github.com/ryo-ma/github-profile-trophy)
-  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Alisson-Fonseca-Frash&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+  ![](https://komarev.com/ghpvc/?username=Alisson-Fonseca-Frash&color=blueviolet)
 
 <!---
 Alisson-Fonseca-Frash/Alisson-Fonseca-Frash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
