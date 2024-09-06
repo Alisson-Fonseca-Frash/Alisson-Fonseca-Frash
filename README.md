@@ -12,6 +12,8 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sr.frash/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-fonseca/)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:frash.dev@gmail.com)
+  #
+  <img src="https://github.com/Alisson-Fonseca-Frash/Alisson-Fonseca-Frash/blob/64438beee873e9f02cbe9f992aa98c256ac93633/github-contribution-grid-snake.gif" width="1000px"></h2>
 
   # 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Alisson-Fonseca-Frash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
