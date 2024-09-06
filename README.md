@@ -12,8 +12,12 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-fonseca/)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:frash.dev@gmail.com)
 
-  # Cartão de Estatísticas
+  # 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Alisson-Fonseca-Frash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+  #
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Alisson-Fonseca-Frash)](https://github.com/ryo-ma/github-profile-trophy)
+  
 
 <!---
 Alisson-Fonseca-Frash/Alisson-Fonseca-Frash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
